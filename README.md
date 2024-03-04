@@ -5,7 +5,7 @@ I'm a Data Scientist with a strong background in machine learning engineering, s
 
 With a blend of technical expertise and business acumen honed at Gojek and J.P. Morgan, I excel at translating complex business needs into technical solutions.
 
-🌱 I recently completed a **MSc in Computer Science (Machine Learning)** at University of Texas at Austin and I'm looking forward to applying machine learning techniques in future projects.
+🎓 I recently completed a **MSc in Computer Science (Machine Learning)** at University of Texas at Austin and I'm looking forward to applying machine learning techniques in future projects.
 
 📫 How to reach me: [Email](mailto:smithla02@gmail.com) | [LinkedIn](https://www.linkedin.com/in/luis-a-smith/)
 
