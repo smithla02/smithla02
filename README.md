@@ -14,10 +14,10 @@ With a blend of technical expertise and business acumen honed at Gojek and J.P. 
 - **Frameworks:** Pandas, NumPy, Scikit-learn, Statsmodels, TensorFlow, Keras, PyTorch, Hugging Face, Spark, Docker, GitLab, Google Cloud Platform (GCP), Google BigQuery, dbt, Streamlit, Apache Airflow, Apache Kafka, Apache Flink, Tableau, Redis, Git, Excel 
 
 ## Projects
-- [Fun Facts Streamlit App](https://github.com/smithla02/fun_facts)
+- [Fun Facts Streamlit App](https://github.com/smithla02/fun_facts_app)
   - An interactive app that leverages OpenAI API to display fun facts based on user-selected topics and personas
-    - ⚡ Fun fact about myself: I've traveled across 42 countries and 5 continents during a Travel and Learning Sabbatical
-- [Research Projects](https://github.com/smithla02/research_projects)
+  - You can test the app here: https://funfacts.streamlit.app/
+- [Research Projects](https://github.com/smithla02/research-projects)
   - 3 research projects conducted during my masters
     - **[Improving Lexical Reasoning of NLI Models](https://github.com/smithla02/research-projects/blob/main/Improving%20Lexical%20Reasoning%20of%20Natural%20Language%20Models%20via%20Data%20Augmentation%20and%20Adversarial%20Training.pdf)**
       - Enhanced Natural Language Inference (NLI) models' ability to discern lexical relationships using data augmentation and adversarial training
