@@ -14,7 +14,7 @@ With a blend of technical expertise and business acumen honed at Gojek and J.P. 
 - **Frameworks:** Pandas, NumPy, Scikit-learn, Statsmodels, TensorFlow, Keras, PyTorch, Hugging Face, Spark, Docker, GitLab, Google Cloud Platform (GCP), Google BigQuery, dbt, Streamlit, Apache Airflow, Apache Kafka, Apache Flink, Tableau, Redis, Git, Excel 
 
 ## Projects
-- [Fun Facts Streamlit App](https://github.com/smithla02/fun_facts_app)
+- [Fun Facts Streamlit App](https://github.com/smithla02/fun-facts-app)
   - An interactive app that leverages OpenAI API to display fun facts based on user-selected topics and personas
   - You can test the app here: https://funfacts.streamlit.app/
 - [Research Projects](https://github.com/smithla02/research-projects)
