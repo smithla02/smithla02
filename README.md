@@ -10,7 +10,7 @@ With a blend of technical expertise and business acumen honed at Gojek and J.P. 
 📫 How to reach me: [Email](mailto:smithla02@gmail.com) | [LinkedIn](https://www.linkedin.com/in/luis-a-smith/)
 
 ## Skills
-- **Programming Languages:** Python, SQL, Bash, Go
+- **Programming Languages:** Python, SQL, Go, Bash
 - **Frameworks:** Pandas, NumPy, Scikit-learn, Statsmodels, TensorFlow, Keras, PyTorch, Hugging Face, Spark, Docker, GitLab, Google Cloud Platform (GCP), Google BigQuery, dbt, Streamlit, Apache Airflow, Apache Kafka, Apache Flink, Tableau, Redis, Git, Excel 
 
 ## Projects
