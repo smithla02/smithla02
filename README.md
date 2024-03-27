@@ -33,7 +33,7 @@ I'm a Data Scientist with a strong background in machine learning engineering, s
   **Feel free to check out the repositories for more detailed information on each project.**
 
 ## Technical Presentations
-- [Gojek’s Approach to Price Reconciliation with Government Regulations and Business Constraints](https://docs.google.com/presentation/d/14iornuqR_k4zQy68_2X7Vxgmub4jr_3NPAogF6DPlrI/edit#slide=id.g2c00ca1ca60_1_3)
+- [Gojek’s Approach to Price Reconciliation with Government Regulations and Business Constraints](https://drive.google.com/file/d/1Wvo5KfV0JuxUGVRJfeW2_U1a0Sbfajzs/view?usp=sharing)
 
 ## Interviews
 - [How GO-FOOD Reads Your Mind](https://medium.com/life-at-go-jek/how-go-food-reads-your-mind-f0ecf2bd3b32)
